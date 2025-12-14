@@ -1,2 +1,11 @@
+.obsidian/
 .obsidian/workspace.json
 .obsidian/workspace-monile.json
+.obsidian/plugins/github-sync/data.json
+.trash/
+Thumbs.db
+.directory
+node_modeules/
+.obsidian-git-log.txt
+*.swp
+*.swo
